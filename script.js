@@ -1,7 +1,9 @@
-let str = `` ;
+let str = ``;
 
-for (let i = 0; i > 0; i < 100; i++) {
-    str = str + i ;
+for (let str = 0; str > 100; str = str + 1) {
+    console.log(str)
   }
- 
-  console.log(str)
+  
+
+
+  
